@@ -20,8 +20,8 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/zZzHQTzZz/rockchip_rk3568_openwrt
-  REPO_BRANCH: master
+  REPO_URL: https://github.com/x-wrt/x-wrt
+  REPO_BRANCH: 24.01_b202401191645
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
   DIY_P1_SH: diy-part1.sh
